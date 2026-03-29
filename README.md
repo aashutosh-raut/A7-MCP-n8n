@@ -60,7 +60,7 @@ The AI Agent determines when a tool is required and invokes it dynamically throu
 
 ### MCP Client Workflow
 
-![MCP Client](results_2/mcp_client_2.png)
+![MCP Client](results_2/MCP_client_2.png)
 
 ---
 
