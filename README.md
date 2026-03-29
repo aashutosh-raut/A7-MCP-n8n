@@ -126,9 +126,9 @@ Users can:
 
 ![Telegram Workflow](results_2/MCP_telegram_workflow.png)
 
-![Telegram Chat](results_2/Testing_telegram_1.png)
+![Telegram Chat](results_2/Testing_Telegram_1.png)
 
-![Telegram Chat](results_2/Testing_telegram_2.png)
+![Telegram Chat](results_2/Testing_Telegram_2.png)
 
 ---
 
